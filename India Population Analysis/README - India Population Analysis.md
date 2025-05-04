@@ -34,7 +34,7 @@ The dataset used includes:
 - Population in 2001
 - Population in 2011
 
-_Source: Kaggle and Indian Census Data_
+_Source: [Kaggle and Indian Census Data_](https://www.kaggle.com/datasets/sirpunch/indian-census-data-with-geospatial-indexing/data)
 
 ## 🚦 Key Findings
 
